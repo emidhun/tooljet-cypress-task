@@ -19,7 +19,7 @@ npm install
 
 ```
 
-### 4. Open cypress
+### 2. Open cypress
 
 ```bash
 ## to open cypress
