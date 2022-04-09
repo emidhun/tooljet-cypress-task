@@ -1,0 +1,6 @@
+{
+  "welcomeHeader": "Welcome to ToolJet!",
+  "dropdownTextDeleteApp": "Delete app",
+  "toastAppDeleted": "App deleted successfully.",
+  "deleteWarningText": "The app and the associated data will be permanently deleted, do you want to continue?"
+}

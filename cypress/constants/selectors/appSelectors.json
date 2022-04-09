@@ -1,0 +1,13 @@
+{
+  "createVersionTitle": ".modal-title",
+  "createVersionSubmitButton": ".modal-footer > .btn",
+  "infoSkipButton": ".driver-close-btn",
+  "appNameInputField": "input.form-control-plaintext",
+  "buttonOnCanvas": ".jet-button",
+  "widgetSearchInputField": "input[placeholder='Search…']",
+  "firstWidget": ".draggable-box > [role='Box']:eq(0)",
+  "canvas": "#real-canvas",
+  "autoSaveIndication": ".nav-auto-save",
+  "sideBarButtons": ".left-sidebar-item",
+  "buttondangerYes":".btn-danger"
+}

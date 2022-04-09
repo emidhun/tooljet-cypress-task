@@ -1,0 +1,11 @@
+{
+  "welcomeHeader": ".empty-welcome-header",
+  "buttonCreateNewApplication": ".empty-action >:eq(0)",
+  "appCard": ".app-card",
+  "appTitle": ".app-title",
+  "appEditButton": "button.btn.btn-sm.btn-light.edit-button",
+  "appEllipsisMenu": ".app-card .svg-icon",
+  "appPopoverMenuItem" : "[role='button']",
+  "buttonDanger": ".btn-danger",
+  "deleteWarningText": ".modal-body"
+}

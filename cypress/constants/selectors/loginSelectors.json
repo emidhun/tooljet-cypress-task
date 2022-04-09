@@ -1,0 +1,5 @@
+{
+  "loginButton": "[data-testid='loginButton']",
+  "emailInputField": "[data-testid='emailField']",
+  "passwordInputField": "[data-testid='passwordField']"
+}

@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://tooljet-testapp.herokuapp.com/",
+  "defaultCommandTimeout": 10000,
+  "viewportWidth": 1366,
+  "viewportHeight": 960
+}
